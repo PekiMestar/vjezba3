@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\bin\Debug\vjezba3.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\bin\Debug\vjezba3.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\bin\Debug\vjezba3.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\obj\Debug\vjezba3.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\obj\Debug\vjezba3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\obj\Debug\vjezba3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\obj\Debug\vjezba3.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\vjezba3\obj\Debug\vjezba3.pdb
